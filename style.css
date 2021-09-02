@@ -1,0 +1,18 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html{
+    background-color: #243b55;  
+}
+body{
+    font-family: 'Roboto', sans-serif;
+  background-color:#243b55 ;
+  
+}
+
+section{
+    background: linear-gradient(#141e30, #243b55);
+}
+
+
+ 
